@@ -1,5 +1,13 @@
-*.sh linguist-language=Bash
-*.bash linguist-language=Bash
+# Treat all Hyprland configs as Bash
 hypr/* linguist-language=Bash
 waybar/* linguist-language=Bash
 swaync/* linguist-language=Bash
+
+# Optional: mark CSS as CSS explicitly
+*.css linguist-language=CSS
+
+# Ignore things that shouldn’t count
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.svg linguist-vendored
+*.ttf linguist-vendored
