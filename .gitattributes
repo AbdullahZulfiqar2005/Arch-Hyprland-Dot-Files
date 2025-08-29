@@ -1,2 +1,5 @@
 *.sh linguist-language=Bash
 *.bash linguist-language=Bash
+hypr/* linguist-language=Bash
+waybar/* linguist-language=Bash
+swaync/* linguist-language=Bash
