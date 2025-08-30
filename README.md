@@ -41,6 +41,10 @@ cp -r ~/dotfiles/swaync ~/.config/
 Restart Hyprland to apply changes.
 
 ---
+## 🎥 Demo
+![Hyprland Demo(Waiting....)](images/output.gif)
+
+---
 
 ## ⚡ Requirements
 
